@@ -74,7 +74,7 @@ We are using a mocking API with data copied from our beta environment. The mocke
 
 ## The task
 
-Create a menu from the response from the menuTrees endpoint. When pressing product items in the menu they should be added to a check.
+Create a menu from the response from the menuTrees endpoint. When pressing product items in the menu they should be added to a "check".
 
 The check is client-side only and doesn't need to call any endpoints. The check should list the name of the products added as well as quantity.
 
@@ -84,7 +84,10 @@ The app should work on iOS iPhones and Android phones. Tablets are not required.
 
 You may design the appearance how you like.
 
-What our menu (and check) looks like in our app on mobile:
+Mockups:
+https://ninjamock.com/s/SQJDLJx
+
+Below are screenshots from our POS app and its menu (and check). These are just to give you an idea and serve as an example. Your app doesn't have to look the same.
 
 ![Screenshot 01](docs/screenshot01.PNG 'Screenshot 01')
 
