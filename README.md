@@ -85,7 +85,10 @@ The app should work on iOS iPhones and Android phones. Tablets are not required.
 You may design the appearance how you like.
 
 What our menu (and check) looks like in our app on mobile:
-![Screenshot 01](./docs/screenshot01.png 'Screenshot 01')
-![Screenshot 02](./docs/screenshot02.png 'Screenshot 02')
-![Screenshot 03](./docs/screenshot03.png 'Screenshot 03')
-![GIF](./docs/video.gif 'GIF')
+![Screenshot 01](docs/screenshot01.png 'Screenshot 01')
+
+![Screenshot 02](docs/screenshot02.png 'Screenshot 02')
+
+![Screenshot 03](docs/screenshot03.png 'Screenshot 03')
+
+![GIF](docs/video.gif 'GIF')
